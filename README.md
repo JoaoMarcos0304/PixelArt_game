@@ -1,7 +1,7 @@
 # Pixel-Art Game
 ## Sejam bem-vindos ao repositório do projeto de um jogo simples de arte com pixels!
 
-O intuito do game é poder se divertir de forma simples e rápida criando desenhos em pixel arte. O projeto consta com uma paleta de 5 cores diferentes, um botão para a mudança das cores e outro para limpeza dos quadros, consta tambem com um quadro de 10x10 contendo 100 pixels para preencher de cores.
+O intuito do game é poder se divertir de forma simples e rápida criando desenhos em pixel arte. O projeto consta com uma paleta de 5 cores diferentes, um botão para a mudança das cores e outro para limpeza dos quadros, consta também com um quadro de 10x10 contendo 100 pixels para preencher de cores.
 
 ## Tecnologias utilizadas: 
 <h1 align='left'>
